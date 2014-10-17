@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kos:home|Door43 (kos)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kos|d43-kos repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kos/archive/master.zip|d43-kos.zip]]
+
+**Recent Changes**
+{{changes>ns = kos}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kos|Ethnologue data]]
+
